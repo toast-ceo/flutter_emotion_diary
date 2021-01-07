@@ -17,6 +17,6 @@
 |주 차|기 간|내 용|
 |------|---|---|
 |[1주차](https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/1.%20firstweek/first%20week.gif?raw=true)|2020.12.11(Fri) ~ 2020.12.18(Fri)|시작, 메뉴, 작성 페이지|
-|[3주차]()|2020.12.18(Fri) ~ 2020.12.25(Fri)||
+|[2주차]()|2020.12.18(Fri) ~ 2020.12.25(Fri)||
 |[3주차]()|2020.12.25(Fri) ~ 2021 1. 1(Fri)||
 |[4주차]()|2021. 1. 1(Fri) ~ 2020 1. 8(Fri)||
