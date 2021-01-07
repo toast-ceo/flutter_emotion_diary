@@ -12,7 +12,9 @@
 프로젝트를 진행하며, 코드를 체계적으로 유지하기 위해 폴더 구조를 만들어 체계적으로 관리해야합니다.
 따라서, 필자는 Root 디렉터리에 font와 image를 관리하기 위해 각 폴더를 만들어 주었습니다.  
 그리고 코드의 주요한 골자를 포함하는 lib 디렉터리에서는 models, screens, service, utils, widgets 폴더로 나눌 수 있는데 필자는 models, ui(screens)로 써서 폴더를 정리했습니다. 
+
 <img width = "200" src = "https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/1.%20firstweek/first%20week%20Folder.png?raw=true">
+
 
 <hr>
 
