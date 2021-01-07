@@ -14,7 +14,7 @@
 
 
 ### :clipboard: Assignment 
-|주 차|기 간|내 용|공부&배운 것|
+|주 차|기 간|내 용|적용&배운 점|
 |---|---|---|---| 
 |[1주차](https://raw.githubusercontent.com/toast-ceo/flutter_emotion_diary/progress/1.%20firstweek/first%20week%202.gif)|2020.12.11(Fri) ~ 2020.12.18(Fri)|폴더 관리, Start, Menu, Record의 선택 Screen|:pushpin:|
 |[2주차]()|2020.12.18(Fri) ~ 2020.12.25(Fri)||:pushpin:|
