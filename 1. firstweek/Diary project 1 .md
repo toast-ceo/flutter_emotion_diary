@@ -5,6 +5,14 @@
 
 ## first week
 
+
+
+<img width = "200" src = "">
+
+<img width = "200" src = "">
+
+
+
 <hr>
 
 ### :clipboard: 폴더 정리 
