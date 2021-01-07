@@ -7,9 +7,7 @@
 
 
 
-<img width = "200" src = "https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/1.%20firstweek/first%20week%201.gif?raw=true">
-
-<img width = "200" src = "">
+<img width = "200" src = "https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/1.%20firstweek/first%20week%201.gif?raw=true"> <img width = "200" src = "https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/1.%20firstweek/first%20week%202.gif?raw=true">
 
 
 
