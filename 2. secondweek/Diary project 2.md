@@ -20,7 +20,7 @@
 변수 args에 받은 데이터들을 바탕으로 Screen을 구성하고 TextFomField 위젯을 활욯한다
 
 
-#### :mint_book: title 입력 TextFormField
+#### :green_book: title 입력 TextFormField
 ```dart
   TextFormField(
                       controller: _titleCotroller,
