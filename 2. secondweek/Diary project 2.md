@@ -133,7 +133,7 @@ TextFormField(
 
 ### :clipboard: Provider 및 데이터 관리
 
-#### :open_book: Provider 정리 [:pushpin:]("https://github.com/toast-ceo/flutter_cording/blob/main/Memo/Provider.md") 
+#### :open_book: Provider 정리 :pushpin:("https://github.com/toast-ceo/flutter_cording/blob/main/Memo/Provider.md") 
 
 - Provider를 이용하여 입력된 text를 string 형태로 저장 시켜줌
 
