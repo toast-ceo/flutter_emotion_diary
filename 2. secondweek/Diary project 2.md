@@ -20,7 +20,7 @@
 변수 args에 받은 데이터들을 바탕으로 Screen을 구성하고 TextFomField 위젯을 활욯한다
 
 
-#### :clip: title 입력 TextFormField
+#### :mint_book: title 입력 TextFormField
 ```dart
   TextFormField(
                       controller: _titleCotroller,
@@ -133,7 +133,7 @@ TextFormField(
 
 ### :clipboard: Provider 및 데이터 관리
 
-#### :clip: Provider 정리 [:pushpin:]("https://github.com/toast-ceo/flutter_cording/blob/main/Memo/Provider.md") 
+#### :clip: Provider 정리 [:pushpin:] ("https://github.com/toast-ceo/flutter_cording/blob/main/Memo/Provider.md") 
 
 - Provider를 이용하여 입력된 text를 string 형태로 저장 시켜줌
 
