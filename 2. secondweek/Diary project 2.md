@@ -20,7 +20,7 @@
 변수 args에 받은 데이터들을 바탕으로 Screen을 구성하고 TextFomField 위젯을 활욯한다
 
 
-#### :black_book: title 입력 TextFormField
+#### :open_book: title 입력 TextFormField
 ```dart
   TextFormField(
                       controller: _titleCotroller,
@@ -61,7 +61,7 @@
                     ),
 ```
 
-#### :black_book: content 입력 TextFormField
+#### :open_book: content 입력 TextFormField
 ```dart
 TextFormField(
                       controller: _contentController,
@@ -96,7 +96,7 @@ TextFormField(
 ```
 
 
-#### :black_book: 다음 TextFormField로 넘어가게 해주는 Logic
+#### :open_book: 다음 TextFormField로 넘어가게 해주는 Logic
 
 ```dart
   _fieldFocusChange(
@@ -108,7 +108,7 @@ TextFormField(
 
 <hr>
 
-#### :black_book: 앞서 bool변수들을 이용해서 변수가 True일 경우, 변수 ? ㅁ:ㅁ 로직을 이용하여 버튼 활성화를 시켜줌 
+#### :open_book: 앞서 bool변수들을 이용해서 변수가 True일 경우, 변수 ? ㅁ:ㅁ 로직을 이용하여 버튼 활성화를 시켜줌 
 
 ```dart
  titleCheck&&contentCheck ? InkWell(
@@ -133,7 +133,7 @@ TextFormField(
 
 ### :clipboard: Provider 및 데이터 관리
 
-#### :black_book: Provider 정리 [:pushpin:] ("https://github.com/toast-ceo/flutter_cording/blob/main/Memo/Provider.md") 
+#### :open_book: Provider 정리 [:pushpin:] ("https://github.com/toast-ceo/flutter_cording/blob/main/Memo/Provider.md") 
 
 - Provider를 이용하여 입력된 text를 string 형태로 저장 시켜줌
 
