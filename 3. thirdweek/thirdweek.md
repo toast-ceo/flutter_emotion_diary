@@ -247,7 +247,7 @@ userListData[index]['image'] == selectedItem || selectedItem =='all'
 
 <hr>
 
-###:clipboard 해당 데이터를 삭제하고 싶을 때, AlertDialog 활용
+### :clipboard 해당 데이터를 삭제하고 싶을 때, AlertDialog 활용
 
 #### :AlertDialog를 활용한 삭제 핵심 로직
 
