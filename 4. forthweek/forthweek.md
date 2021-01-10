@@ -7,7 +7,7 @@
 
 <hr>
 
-<img width = "200" src = ""> 
+<img width = "200" src = "https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/4.%20forthweek/SmartSelectImage_2021-01-10-15-56-42.png?raw=true"> 
 
 - 앞선, remindPage Class에서 해당 데이터의 날짜나 데이터의 숫자를 나타내주었다면 본 page Calss에서는 그 데이터의 내용을 출력해줌
 
