@@ -1,8 +1,7 @@
 
 <br>
 
-# :blue_book: Flutter Project [One Day Diary] [:pushpin:](https://github.com/toast-ceo/flutter_emotion_diary/tree/progress/emotionDiary_app)
-
+# :blue_book: Flutter Project [One Day Diary] 
 <br>
 
 ### :house_with_garden: 소개 
