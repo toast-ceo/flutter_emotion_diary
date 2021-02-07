@@ -5,6 +5,7 @@
 ## first update
 
 
+<hr>
 
 <img width = "200" src = "https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/5.%20update_1/GIF.gif?raw=true"> 
 
