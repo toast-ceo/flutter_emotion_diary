@@ -10,7 +10,7 @@
 
  
 <hr>
-<img width = "200" src ="https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/4.%20forthweek/GIF.gif?raw=true" >
+<img width = "200" src ="https://github.com/toast-ceo/flutter_emotion_diary/blob/progress/5.%20update_1/GIF.gif?raw=true" >
 
 ### :clipboard: Assignment 
 |주 차|기 간|내 용|적용&배운 점|
